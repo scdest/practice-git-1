@@ -1,2 +1,5 @@
 My first line in project
 Paris is the capical of France
+
+first line added
+second line added
